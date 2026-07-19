@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Syntax-check all scripts (Blender-only imports excluded at runtime)
+        run: |
+          python -m py_compile tools/*.py training/train_yolo.py training/eval.py
+          python - <<'EOF'
+          import ast, pathlib
+          ast.parse(pathlib.Path("synthetic/generate_seals.py").read_text())
+          print("generate_seals.py parses OK")
+          EOF
+      - name: Validate dataset (if data present)
+        run: |
+          if [ -f data/metadata.jsonl ]; then python tools/validate_dataset.py data/; else echo "no data yet"; fi

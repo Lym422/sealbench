@@ -1,0 +1,16 @@
+# Ultralytics dataset config for SealBench
+# Paths are relative to this file's `path` root.
+
+path: ../../data
+train: splits/train.txt
+val: splits/val.txt
+test: splits/test.txt
+
+names:
+  0: bolt_seal
+  1: cable_seal
+  2: plastic_indicative_seal
+  3: metal_strap_seal
+  4: wire_seal
+  5: electronic_seal
+  6: other_seal

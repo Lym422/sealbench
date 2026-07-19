@@ -1,0 +1,60 @@
+# SealBench class taxonomy v0.1
+# Detection classes are the seal TYPES; tamper-state is a v2 attribute, not a class.
+# `class_id` values are stable — never renumber; append only.
+
+classes:
+  - class_id: 0
+    name: bolt_seal
+    description: >
+      High-security bolt seal (ISO 17712 "H" class typical): metal pin with plastic-
+      or metal-encased head snapped into a locking bushing. Common on containers
+      and high-value trailer loads.
+    examples: [Uline S-11423, TydenBrooks Snap Tracker]
+
+  - class_id: 1
+    name: cable_seal
+    description: >
+      Aircraft-cable seal: braided steel cable threaded through door hardware and
+      locked into a metal body. Variable length/diameter; often coiled excess.
+    examples: [Uline S-15268, TydenBrooks Intermodal II]
+
+  - class_id: 2
+    name: plastic_indicative_seal
+    description: >
+      Pull-tight or fixed-length plastic strap seal, indicative (tamper-evident,
+      not barrier). Numbered strip, often brightly colored. The type RFID readers
+      most often miss when 3rd-party vendors use unsupported brands.
+    examples: [Uline S-2447, pull-tight truck seals]
+
+  - class_id: 3
+    name: metal_strap_seal
+    description: >
+      Flat metal band/ball-end strap seal folded through the hasp. Legacy style,
+      still common from certain shippers.
+    examples: [ball seals, flat metal band seals]
+
+  - class_id: 4
+    name: wire_seal
+    description: >
+      Twisted wire with lead/plastic crimp disc. Low security; utilities/legacy use.
+    examples: [lead-and-wire meter-style seals]
+
+  - class_id: 5
+    name: electronic_seal
+    description: >
+      RFID / bolt-electronic hybrid or reusable e-seal device attached to door
+      hardware. Distinct housing, often branded plastic body.
+    examples: [RFID bolt seals, reusable e-seals]
+
+  - class_id: 6
+    name: other_seal
+    description: >
+      Clearly a security seal but not classifiable into the above (padlock-style
+      plastic seals, novel designs). Use sparingly; propose new classes via issue.
+
+# Negative images (door hardware with NO seal) carry an empty label file and are
+# REQUIRED in every split — absence detection is the theft-relevant case.
+
+attributes:  # recorded in metadata.jsonl per instance, not trained in v0.1
+  tamper_state: [intact, cut, resealed, missing_suspected]
+  number_legible: [yes, partial, no]
