@@ -1,0 +1,30 @@
+{
+ "images": 123,
+ "with_seal": 108,
+ "no_seal": 15,
+ "by_seal_type": {
+  "plastic_indicative": 15,
+  "none": 15,
+  "cable": 18,
+  "bolt": 41,
+  "padlock": 34
+ },
+ "by_brand": {
+  "STG": 9,
+  "Ryder": 1,
+  "unbranded white": 4,
+  "Premier": 4,
+  "Hub Group": 44,
+  "XTRA": 4,
+  "J.B. Hunt": 40,
+  "Stoughton Lease": 2,
+  "U.S. Food Aid": 1,
+  "XPO": 8,
+  "Swift": 4,
+  "McKinney": 2
+ },
+ "excluded_by_brand": {
+  "Amazon": 28,
+  "rental (AZNG sign)": 2
+ }
+}
