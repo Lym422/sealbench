@@ -1,1970 +1,2264 @@
 [
  {
   "name": "wild_0001",
-  "source_name": "syn_0002",
   "split": "test",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "pale yellow",
-  "brand": "STG",
+  "box_xyxy": [
+   223.5,
+   332.5,
+   233.5,
+   348.5
+  ],
   "image_size": [
    356,
    445
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0002",
-  "source_name": "syn_0003",
   "split": "test",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "Ryder",
+  "box_xyxy": null,
   "image_size": [
    422,
    519
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0003",
-  "source_name": "syn_0008",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "unbranded white",
+  "box_xyxy": [
+   258.5,
+   275.5,
+   274.5,
+   292.5
+  ],
   "image_size": [
    419,
    368
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0004",
-  "source_name": "syn_0009",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Premier",
+  "box_xyxy": [
+   280.5,
+   223.5,
+   290.5,
+   243.5
+  ],
   "image_size": [
    462,
    314
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0005",
-  "source_name": "syn_0010",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   253.5,
+   386.5,
+   262.5,
+   409.5
+  ],
   "image_size": [
    406,
    520
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0006",
-  "source_name": "syn_0011",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "cable",
   "seal_color": "orange",
-  "brand": "XTRA",
+  "box_xyxy": [
+   285.5,
+   413.5,
+   298.5,
+   437.5
+  ],
   "image_size": [
    469,
    504
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0007",
-  "source_name": "syn_0021",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "XTRA",
+  "box_xyxy": [
+   259.5,
+   465.5,
+   274.5,
+   484.5
+  ],
   "image_size": [
    441,
    546
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0008",
-  "source_name": "syn_0023",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   267.5,
+   392.5,
+   281.5,
+   412.5
+  ],
   "image_size": [
    423,
    522
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0009",
-  "source_name": "syn_0025",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   251.5,
+   383.5,
+   259.5,
+   400.5
+  ],
   "image_size": [
    411,
    513
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0010",
-  "source_name": "syn_0026",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   243.5,
+   387.5,
+   256.5,
+   407.5
+  ],
   "image_size": [
    398,
    516
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0011",
-  "source_name": "syn_0027",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "pale yellow",
-  "brand": "STG",
+  "box_xyxy": [
+   236.5,
+   370.5,
+   243.5,
+   396.5
+  ],
   "image_size": [
    392,
    501
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0012",
-  "source_name": "syn_0029",
-  "split": "test",
+  "split": "train",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "unbranded white",
+  "box_xyxy": null,
   "image_size": [
    444,
    520
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0013",
-  "source_name": "syn_0031",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "STG",
+  "box_xyxy": [
+   278.5,
+   425.5,
+   286.5,
+   444.5
+  ],
   "image_size": [
    443,
    570
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0014",
-  "source_name": "syn_0034",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   248.5,
+   368.5,
+   260.5,
+   389.5
+  ],
   "image_size": [
    396,
    495
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0015",
-  "source_name": "syn_0036",
   "split": "test",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "cable",
   "seal_color": "steel",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   274.5,
+   379.5,
+   281.5,
+   400.5
+  ],
   "image_size": [
    431,
    518
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0016",
-  "source_name": "syn_0040",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   271.5,
+   414.5,
+   285.5,
+   430.5
+  ],
   "image_size": [
    435,
    562
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0017",
-  "source_name": "syn_0041",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   255.5,
+   371.5,
+   263.5,
+   386.5
+  ],
   "image_size": [
    400,
    505
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0018",
-  "source_name": "syn_0042",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   260.5,
+   380.5,
+   271.5,
+   391.5
+  ],
   "image_size": [
    412,
    517
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0019",
-  "source_name": "syn_0045",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   263.5,
+   385.5,
+   273.5,
+   410.5
+  ],
   "image_size": [
    424,
    526
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0020",
-  "source_name": "syn_0046",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   271.5,
+   365.5,
+   285.5,
+   383.5
+  ],
   "image_size": [
    450,
    504
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0021",
-  "source_name": "syn_0047",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   283.5,
+   375.5,
+   294.5,
+   398.5
+  ],
   "image_size": [
    456,
    527
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0022",
-  "source_name": "syn_0049",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   263.5,
+   393.5,
+   276.5,
+   413.5
+  ],
   "image_size": [
    420,
    531
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0023",
-  "source_name": "syn_0051",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   249.5,
+   194.5,
+   257.5,
+   211.5
+  ],
   "image_size": [
    400,
    324
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0024",
-  "source_name": "syn_0052",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "pale yellow",
-  "brand": "Stoughton Lease",
+  "box_xyxy": [
+   292.5,
+   513.5,
+   310.5,
+   541.5
+  ],
   "image_size": [
    477,
    634
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0025",
-  "source_name": "syn_0053",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "U.S. Food Aid",
+  "box_xyxy": [
+   243.5,
+   476.5,
+   250.5,
+   497.5
+  ],
   "image_size": [
    401,
    558
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0026",
-  "source_name": "syn_0054",
   "split": "test",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "pulltight",
   "seal_color": "yellow",
-  "brand": "Premier",
+  "box_xyxy": [
+   294.5,
+   467.5,
+   312.5,
+   497.5
+  ],
   "image_size": [
    468,
    578
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0027",
-  "source_name": "syn_0055",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "white",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   267.5,
+   373.5,
+   277.5,
+   394.5
+  ],
   "image_size": [
    437,
    483
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0028",
-  "source_name": "syn_0056",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "XPO",
+  "box_xyxy": [
+   266.5,
+   423.5,
+   278.5,
+   444.5
+  ],
   "image_size": [
    434,
    569
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0029",
-  "source_name": "syn_0057",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "XPO",
+  "box_xyxy": [
+   266.5,
+   264.5,
+   276.5,
+   275.5
+  ],
   "image_size": [
    416,
    403
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0030",
-  "source_name": "syn_0058",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   273.5,
+   427.5,
+   282.5,
+   448.5
+  ],
   "image_size": [
    441,
    575
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0031",
-  "source_name": "syn_0059",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   232.5,
+   378.5,
+   241.5,
+   394.5
+  ],
   "image_size": [
    389,
    513
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0032",
-  "source_name": "syn_0060",
-  "split": "test",
+  "split": "val",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "J.B. Hunt",
+  "box_xyxy": null,
   "image_size": [
    429,
    534
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0033",
-  "source_name": "syn_0061",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   293.5,
+   430.5,
+   300.5,
+   444.5
+  ],
   "image_size": [
    468,
    580
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0034",
-  "source_name": "syn_0062",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "STG",
+  "box_xyxy": [
+   278.5,
+   411.5,
+   288.5,
+   437.5
+  ],
   "image_size": [
    447,
    564
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0035",
-  "source_name": "syn_0063",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "XTRA",
+  "box_xyxy": [
+   273.5,
+   527.5,
+   282.5,
+   547.5
+  ],
   "image_size": [
    434,
    597
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0036",
-  "source_name": "syn_0064",
   "split": "test",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   266.5,
+   409.5,
+   278.5,
+   422.5
+  ],
   "image_size": [
    426,
    548
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0037",
-  "source_name": "syn_0065",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   268.5,
+   416.5,
+   284.5,
+   438.5
+  ],
   "image_size": [
    422,
    526
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0038",
-  "source_name": "syn_0066",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "STG",
+  "box_xyxy": [
+   242.5,
+   262.5,
+   249.5,
+   277.5
+  ],
   "image_size": [
    396,
    391
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0039",
-  "source_name": "syn_0067",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "pale yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   273.5,
+   433.5,
+   291.5,
+   459.5
+  ],
   "image_size": [
    449,
    567
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0040",
-  "source_name": "syn_0068",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   231.5,
+   355.5,
+   242.5,
+   374.5
+  ],
   "image_size": [
    394,
    476
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0041",
-  "source_name": "syn_0069",
-  "split": "test",
+  "split": "train",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "Hub Group",
+  "box_xyxy": null,
   "image_size": [
    444,
    440
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0042",
-  "source_name": "syn_0070",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "pale yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   243.5,
+   247.5,
+   250.5,
+   271.5
+  ],
   "image_size": [
    383,
    370
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0043",
-  "source_name": "syn_0071",
-  "split": "test",
+  "split": "val",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "Hub Group",
+  "box_xyxy": null,
   "image_size": [
    387,
    478
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0044",
-  "source_name": "syn_0072",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "white",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   243.5,
+   327.5,
+   250.5,
+   347.5
+  ],
   "image_size": [
    398,
    455
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0045",
-  "source_name": "syn_0073",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   231.5,
+   360.5,
+   245.5,
+   376.5
+  ],
   "image_size": [
    383,
    480
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0046",
-  "source_name": "syn_0074",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "orange",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   234.5,
+   341.5,
+   242.5,
+   360.5
+  ],
   "image_size": [
    372,
    466
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0047",
-  "source_name": "syn_0075",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   272.5,
+   435.5,
+   280.5,
+   453.5
+  ],
   "image_size": [
    442,
    579
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0048",
-  "source_name": "syn_0076",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   260.5,
+   404.5,
+   273.5,
+   422.5
+  ],
   "image_size": [
    432,
    540
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0049",
-  "source_name": "syn_0077",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Swift",
+  "box_xyxy": [
+   324.5,
+   163.5,
+   336.5,
+   184.5
+  ],
   "image_size": [
    506,
    308
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0050",
-  "source_name": "syn_0078",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   243.5,
+   372.5,
+   252.5,
+   390.5
+  ],
   "image_size": [
    397,
    502
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0051",
-  "source_name": "syn_0079",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Premier",
+  "box_xyxy": [
+   233.5,
+   287.5,
+   242.5,
+   306.5
+  ],
   "image_size": [
    377,
    370
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0052",
-  "source_name": "syn_0080",
   "split": "test",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   271.5,
+   429.5,
+   286.5,
+   451.5
+  ],
   "image_size": [
    442,
    573
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0053",
-  "source_name": "syn_0081",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Stoughton Lease",
+  "box_xyxy": [
+   269.5,
+   453.5,
+   285.5,
+   475.5
+  ],
   "image_size": [
    436,
    563
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0054",
-  "source_name": "syn_0082",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "pale yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   278.5,
+   449.5,
+   292.5,
+   470.5
+  ],
   "image_size": [
    446,
    565
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0055",
-  "source_name": "syn_0083",
-  "split": "test",
+  "split": "train",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "Hub Group",
+  "box_xyxy": null,
   "image_size": [
    422,
    543
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0056",
-  "source_name": "syn_0084",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   264.5,
+   421.5,
+   277.5,
+   442.5
+  ],
   "image_size": [
    440,
    558
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0057",
-  "source_name": "syn_0085",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "white",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   264.5,
+   233.5,
+   273.5,
+   253.5
+  ],
   "image_size": [
    430,
    374
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0058",
-  "source_name": "syn_0086",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "white",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   246.5,
+   381.5,
+   255.5,
+   404.5
+  ],
   "image_size": [
    401,
    506
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0059",
-  "source_name": "syn_0087",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   233.5,
+   313.5,
+   244.5,
+   329.5
+  ],
   "image_size": [
    376,
    440
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0060",
-  "source_name": "syn_0088",
-  "split": "test",
+  "split": "train",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "unbranded white",
+  "box_xyxy": null,
   "image_size": [
    410,
    523
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0061",
-  "source_name": "syn_0089",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   232.5,
+   359.5,
+   241.5,
+   372.5
+  ],
   "image_size": [
    377,
    481
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0062",
-  "source_name": "syn_0090",
   "split": "test",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "unbranded white",
+  "box_xyxy": null,
   "image_size": [
    530,
    570
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0063",
-  "source_name": "syn_0091",
   "split": "test",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "J.B. Hunt",
+  "box_xyxy": null,
   "image_size": [
    434,
    472
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0064",
-  "source_name": "syn_0092",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   244.5,
+   371.5,
+   259.5,
+   387.5
+  ],
   "image_size": [
    402,
    494
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0065",
-  "source_name": "syn_0093",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   371.5,
+   411.5,
+   385.5,
+   436.5
+  ],
   "image_size": [
    607,
    613
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0066",
-  "source_name": "syn_0094",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   273.5,
+   397.5,
+   282.5,
+   417.5
+  ],
   "image_size": [
    428,
    548
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0067",
-  "source_name": "syn_0095",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "dark red",
-  "brand": "Swift",
+  "box_xyxy": [
+   290.5,
+   490.5,
+   303.5,
+   511.5
+  ],
   "image_size": [
    470,
    592
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0068",
-  "source_name": "syn_0096",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "white",
-  "brand": "XPO",
+  "box_xyxy": [
+   288.5,
+   422.5,
+   301.5,
+   440.5
+  ],
   "image_size": [
    458,
    568
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0069",
-  "source_name": "syn_0097",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "red",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   210.5,
+   388.5,
+   219.5,
+   410.5
+  ],
   "image_size": [
    358,
    536
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0070",
-  "source_name": "syn_0098",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   229.5,
+   366.5,
+   240.5,
+   382.5
+  ],
   "image_size": [
    384,
    494
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0071",
-  "source_name": "syn_0099",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   291.5,
+   210.5,
+   303.5,
+   225.5
+  ],
   "image_size": [
    474,
    358
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0072",
-  "source_name": "syn_0100",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   239.5,
+   362.5,
+   246.5,
+   379.5
+  ],
   "image_size": [
    398,
    486
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0073",
-  "source_name": "syn_0101",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   274.5,
+   376.5,
+   290.5,
+   397.5
+  ],
   "image_size": [
    433,
    518
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0074",
-  "source_name": "syn_0102",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   242.5,
+   355.5,
+   255.5,
+   375.5
+  ],
   "image_size": [
    386,
    478
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0075",
-  "source_name": "syn_0103",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   247.5,
+   397.5,
+   261.5,
+   412.5
+  ],
   "image_size": [
    397,
    500
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0076",
-  "source_name": "syn_0104",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "XPO",
+  "box_xyxy": [
+   386.5,
+   485.5,
+   402.5,
+   508.5
+  ],
   "image_size": [
    615,
    680
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0077",
-  "source_name": "syn_0105",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   292.5,
+   394.5,
+   302.5,
+   422.5
+  ],
   "image_size": [
    457,
    543
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0078",
-  "source_name": "syn_0107",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   235.5,
+   368.5,
+   242.5,
+   385.5
+  ],
   "image_size": [
    388,
    494
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0079",
-  "source_name": "syn_0108",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   283.5,
+   451.5,
+   298.5,
+   469.5
+  ],
   "image_size": [
    492,
    608
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0080",
-  "source_name": "syn_0109",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   252.5,
+   393.5,
+   261.5,
+   413.5
+  ],
   "image_size": [
    406,
    531
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0081",
-  "source_name": "syn_0110",
-  "split": "test",
+  "split": "train",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "J.B. Hunt",
+  "box_xyxy": null,
   "image_size": [
    380,
    486
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0082",
-  "source_name": "syn_0111",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "XTRA",
+  "box_xyxy": [
+   324.5,
+   441.5,
+   341.5,
+   465.5
+  ],
   "image_size": [
    527,
    517
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0083",
-  "source_name": "syn_0112",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "McKinney",
+  "box_xyxy": [
+   284.5,
+   402.5,
+   296.5,
+   416.5
+  ],
   "image_size": [
    454,
    508
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0084",
-  "source_name": "syn_0113",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "orange",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   262.5,
+   391.5,
+   270.5,
+   409.5
+  ],
   "image_size": [
    436,
    523
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0085",
-  "source_name": "syn_0114",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "McKinney",
+  "box_xyxy": [
+   287.5,
+   304.5,
+   298.5,
+   331.5
+  ],
   "image_size": [
    461,
    413
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0086",
-  "source_name": "syn_0115",
-  "split": "test",
+  "split": "train",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "Hub Group",
+  "box_xyxy": null,
   "image_size": [
    392,
    496
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0087",
-  "source_name": "syn_0116",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   306.5,
+   385.5,
+   315.5,
+   403.5
+  ],
   "image_size": [
    392,
    519
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0088",
-  "source_name": "syn_0117",
   "split": "test",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "white",
-  "brand": "Swift",
+  "box_xyxy": [
+   267.5,
+   420.5,
+   278.5,
+   439.5
+  ],
   "image_size": [
    414,
    518
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0089",
-  "source_name": "syn_0118",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   287.5,
+   395.5,
+   297.5,
+   419.5
+  ],
   "image_size": [
    462,
    548
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0090",
-  "source_name": "syn_0119",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   276.5,
+   418.5,
+   290.5,
+   437.5
+  ],
   "image_size": [
    436,
    562
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0091",
-  "source_name": "syn_0120",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "dark red",
-  "brand": "STG",
+  "box_xyxy": [
+   287.5,
+   396.5,
+   303.5,
+   413.5
+  ],
   "image_size": [
    447,
    552
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0092",
-  "source_name": "syn_0121",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "pale yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   287.5,
+   436.5,
+   300.5,
+   458.5
+  ],
   "image_size": [
    471,
    584
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0093",
-  "source_name": "syn_0123",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   272.5,
+   338.5,
+   284.5,
+   361.5
+  ],
   "image_size": [
    447,
    480
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0094",
-  "source_name": "syn_0124",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   269.5,
+   360.5,
+   278.5,
+   388.5
+  ],
   "image_size": [
    433,
    510
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0095",
-  "source_name": "syn_0125",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   304.5,
+   422.5,
+   313.5,
+   442.5
+  ],
   "image_size": [
    475,
    580
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0096",
-  "source_name": "syn_0126",
-  "split": "test",
+  "split": "train",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "Hub Group",
+  "box_xyxy": null,
   "image_size": [
    430,
    556
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0097",
-  "source_name": "syn_0127",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "dark red",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   329.5,
+   364.5,
+   340.5,
+   382.5
+  ],
   "image_size": [
    435,
    500
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0098",
-  "source_name": "syn_0128",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Premier",
+  "box_xyxy": [
+   267.5,
+   436.5,
+   277.5,
+   459.5
+  ],
   "image_size": [
    446,
    530
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0099",
-  "source_name": "syn_0129",
-  "split": "test",
+  "split": "train",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "STG",
+  "box_xyxy": null,
   "image_size": [
    423,
    556
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0100",
-  "source_name": "syn_0130",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   229.5,
+   312.5,
+   238.5,
+   334.5
+  ],
   "image_size": [
    380,
    436
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0101",
-  "source_name": "syn_0131",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   245.5,
+   199.5,
+   253.5,
+   213.5
+  ],
   "image_size": [
    395,
    326
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0102",
-  "source_name": "syn_0132",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "red",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   238.5,
+   314.5,
+   247.5,
+   332.5
+  ],
   "image_size": [
    392,
    442
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0103",
-  "source_name": "syn_0133",
   "split": "test",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "XPO",
+  "box_xyxy": [
+   234.5,
+   345.5,
+   242.5,
+   361.5
+  ],
   "image_size": [
    371,
    461
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0104",
-  "source_name": "syn_0134",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   276.5,
+   419.5,
+   289.5,
+   435.5
+  ],
   "image_size": [
    459,
    580
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0105",
-  "source_name": "syn_0135",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "XPO",
+  "box_xyxy": [
+   216.5,
+   370.5,
+   230.5,
+   390.5
+  ],
   "image_size": [
    376,
    485
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0106",
-  "source_name": "syn_0136",
-  "split": "test",
+  "split": "train",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "Hub Group",
+  "box_xyxy": null,
   "image_size": [
    595,
    668
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0107",
-  "source_name": "syn_0137",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   235.5,
+   353.5,
+   249.5,
+   372.5
+  ],
   "image_size": [
    384,
    484
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0108",
-  "source_name": "syn_0138",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "STG",
+  "box_xyxy": [
+   247.5,
+   380.5,
+   255.5,
+   400.5
+  ],
   "image_size": [
    392,
    520
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0109",
-  "source_name": "syn_0139",
   "split": "test",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "pale yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   241.5,
+   360.5,
+   256.5,
+   378.5
+  ],
   "image_size": [
    379,
    479
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0110",
-  "source_name": "syn_0140",
   "split": "test",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "XPO",
+  "box_xyxy": [
+   195.5,
+   390.5,
+   212.5,
+   415.5
+  ],
   "image_size": [
    364,
    518
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0111",
-  "source_name": "syn_0141",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "pale yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   274.5,
+   378.5,
+   291.5,
+   403.5
+  ],
   "image_size": [
    450,
    514
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0112",
-  "source_name": "syn_0142",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "orange",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   294.5,
+   438.5,
+   304.5,
+   457.5
+  ],
   "image_size": [
    456,
    588
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0113",
-  "source_name": "syn_0143",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   237.5,
+   361.5,
+   250.5,
+   381.5
+  ],
   "image_size": [
    384,
    485
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0114",
-  "source_name": "syn_0144",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "XPO",
+  "box_xyxy": [
+   276.5,
+   420.5,
+   289.5,
+   437.5
+  ],
   "image_size": [
    450,
    565
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0115",
-  "source_name": "syn_0145",
-  "split": "test",
+  "split": "val",
+  "has_seal": false,
   "seal_type": null,
-  "seal_type_raw": "none",
   "seal_color": null,
-  "brand": "J.B. Hunt",
+  "box_xyxy": null,
   "image_size": [
    389,
    508
   ],
-  "has_seal": false,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0116",
-  "source_name": "syn_0146",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   241.5,
+   363.5,
+   252.5,
+   379.5
+  ],
   "image_size": [
    386,
    484
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0117",
-  "source_name": "syn_0147",
-  "split": "test",
+  "split": "val",
+  "has_seal": true,
   "seal_type": "cable",
-  "seal_type_raw": "loop",
   "seal_color": "red",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   261.5,
+   382.5,
+   272.5,
+   397.5
+  ],
   "image_size": [
    418,
    515
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0118",
-  "source_name": "syn_0148",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   235.5,
+   358.5,
+   248.5,
+   376.5
+  ],
   "image_size": [
    376,
    482
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0119",
-  "source_name": "syn_0149",
   "split": "test",
+  "has_seal": true,
   "seal_type": "plastic_indicative",
-  "seal_type_raw": "strap",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   293.5,
+   358.5,
+   308.5,
+   382.5
+  ],
   "image_size": [
    472,
    508
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0120",
-  "source_name": "syn_0150",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "yellow",
-  "brand": "Swift",
+  "box_xyxy": [
+   280.5,
+   440.5,
+   296.5,
+   463.5
+  ],
   "image_size": [
    445,
    548
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0121",
-  "source_name": "syn_0151",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "Hub Group",
+  "box_xyxy": [
+   244.5,
+   375.5,
+   252.5,
+   396.5
+  ],
   "image_size": [
    402,
    513
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0122",
-  "source_name": "syn_0152",
-  "split": "test",
+  "split": "train",
+  "has_seal": true,
   "seal_type": "bolt",
-  "seal_type_raw": "bolt",
   "seal_color": "yellow",
-  "brand": "J.B. Hunt",
+  "box_xyxy": [
+   246.5,
+   379.5,
+   254.5,
+   394.5
+  ],
   "image_size": [
    397,
    507
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  },
  {
   "name": "wild_0123",
-  "source_name": "syn_0153",
   "split": "test",
+  "has_seal": true,
   "seal_type": "padlock",
-  "seal_type_raw": "padlock",
   "seal_color": "pale yellow",
-  "brand": "STG",
+  "box_xyxy": [
+   248.5,
+   261.5,
+   262.5,
+   278.5
+  ],
   "image_size": [
    408,
    394
   ],
-  "has_seal": true,
-  "capture": "phone, public road or parking lot, far field",
-  "redaction": "plates and identifiers blurred by the collector"
+  "capture": "phone, public road or public parking lot, yard distance, cropped to the trailer rear",
+  "redaction": "logos, signs, plates and identifiers pixelated; seal region restored from the original"
  }
 ]

@@ -9,22 +9,32 @@
   "bolt": 41,
   "padlock": 34
  },
- "by_brand": {
-  "STG": 9,
-  "Ryder": 1,
-  "unbranded white": 4,
-  "Premier": 4,
-  "Hub Group": 44,
-  "XTRA": 4,
-  "J.B. Hunt": 40,
-  "Stoughton Lease": 2,
-  "U.S. Food Aid": 1,
-  "XPO": 8,
-  "Swift": 4,
-  "McKinney": 2
+ "distinct_fleets_or_lessors": 12,
+ "photographs_collected": 153,
+ "excluded_employer_branded": 30,
+ "splits": {
+  "train": {
+   "images": 73,
+   "with_seal": 64,
+   "no_seal": 9
+  },
+  "val": {
+   "images": 25,
+   "with_seal": 22,
+   "no_seal": 3
+  },
+  "test": {
+   "images": 25,
+   "with_seal": 22,
+   "no_seal": 3
+  }
  },
- "excluded_by_brand": {
-  "Amazon": 28,
-  "rental (AZNG sign)": 2
+ "split_method": "random by image, seed 7, stratified so that no-seal images fall in every split (seal-check scripts/make_yard_splits.py)",
+ "seal_zone": {
+  "x0": 0.42,
+  "y0": 0.45,
+  "x1": 0.95,
+  "y1": 0.98,
+  "scale": 3
  }
 }

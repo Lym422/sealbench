@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "SealBench-Lite: yard-distance photographs of trailer rears for cargo seal presence detection"
+version: "0.1"
+date-released: "2026-10-11"
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: Meng
+    given-names: Lingyu
+repository-code: "https://github.com/Lym422/sealbench"
+doi: "10.5281/zenodo.23290066"
+keywords:
+  - cargo seal
+  - cargo theft
+  - freight security
+  - trailer
+  - object detection
+  - small object detection
+  - benchmark dataset
+  - Freight Custody Verification Framework
+message: "If you use this dataset, please cite it as below and cite the Freight Custody Verification Framework (doi:10.5281/zenodo.23179115)."
